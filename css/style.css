@@ -1,0 +1,247 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#top_bar {
+    background-color: #2d6389;
+    padding: 5px 15px;
+}
+
+#top_bar > img {
+    display: inline;
+    width: 60px;
+    padding-right: 10px;
+}
+
+
+#top_bar > a {
+    color: #000;
+    float: right;
+    margin-top:15px;
+     
+}
+
+#top_bar > button {
+    vertical-align: bottom;
+    background-color: #2d6389;
+    border-style: none;
+}
+
+nav {
+    background-color: #2d6389;
+    float: left;
+    padding: 0 15px;
+    height: 100vh;
+    width: 170px;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+nav ul li {
+    margin: 20px 0;
+}
+
+nav ul li a{
+    color: #000;
+     
+}
+
+nav ul li div a{
+    color: #000;
+     
+}
+
+nav ul li a:hover {
+    color: #000;
+}
+
+#Dropdown{
+    background-color: #07aee6;
+     
+}
+
+#Dropdown a{
+    color: #000;
+     
+}
+
+
+#Dropdown a:hover{
+    background-color: #07aee6;
+    color: #000;
+     
+}
+
+#icon{
+    font-size: 30px;
+}
+
+.nav-hide{
+    display: none;
+}
+
+
+h3{
+    color: #2d6389;
+    font-family: Arial;
+}
+
+h6{
+    color: #07aee6;
+    font-family: Arial;
+}
+
+#topo_pagina{
+    background-color: #ededed;
+    border-bottom-style: solid;
+    border-bottom-color: #2d6389;
+    border-bottom-width: 5px;
+    vertical-align: middle;
+}
+
+#Titulo{
+    display: inline-block;
+    margin-left: 30px;
+    padding-top: 10px;
+
+}
+#Caminho{
+    display: inline;
+    float: right;
+    text-align: left;
+}
+
+#Caminho h6{
+    display: inline;
+}
+
+#Caminho i{
+    color: #2d6389;
+    display: inline;
+}
+
+#menu-pagina{
+    padding-top: 10px;
+}
+
+#Pesquisa{
+    margin-left: 30px;
+    display: inline;
+}
+
+#icon-pensquisa{
+    color: #2d6389;
+}
+
+#btn-pesquisa{
+    background-color: inherit;
+    border-color: #2d6389;
+    border-width: 2px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left-style: none;
+}
+
+#cx-pesquisa{
+    width: 60%;
+    border-color: #2d6389;
+    border-width: 2px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-right-style: none;
+}
+.Half-row{
+    width: 35%; 
+    display: inline-block;
+    margin-left: 30px;
+}
+#Acoes{
+    float: right; 
+    vertical-align: middle;
+}
+
+#Acoes button{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right; 
+}
+
+.inclusao{
+    background-color: #42bd20;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+}
+
+.edicao{
+    background-color: rgb(247, 194, 49);
+    border-style: none;
+    width: 100px;
+    height: 30px;
+}
+
+.exclusao{
+    background-color: #c22f3d;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+}
+
+.exclusao > a{
+    color: #000;
+     
+}
+
+#conteudo-pagina{
+    width: 75% !important;
+    margin: auto;
+}
+
+th{
+    color: #000;
+}
+
+td{
+    text-align: center;
+    color: #b8b7b4;
+}
+
+#col1{
+    width: 50%;
+}
+#col2{
+    width:15%;
+}
+
+
+.iframe-container{
+overflow: hidden;
+padding-top: 56.25%;
+position: relative
+}
+
+.iframe-container iframe{
+    border: 0;
+    height:100%;
+    left:0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#Resumo{
+     color:black;
+}
+
+#topo_pagina{
+    color:#000 !important;
+    text-decoration: none !important;;
+}
+
+#black{
+    color: #000;
+}
